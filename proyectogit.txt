@@ -1,1 +1,2 @@
 vamos elegante con el proyecto git
+vamos elegante con el primer commit
